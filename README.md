@@ -1,0 +1,2 @@
+# Exploratory-data-analysis-Case-study
+This study aims at applying EDA principals to understand the risk associated in any financial lending institutions.  This EDA study needs to identify the driving factors which can help to find out potential defaulters and also whether to offer a loan to clients This way financial institution can cut back financial losses and make some profitable informed business decisions
